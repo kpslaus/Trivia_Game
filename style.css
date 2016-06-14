@@ -1,0 +1,141 @@
+body{
+	background-image:url(https://66.media.tumblr.com/358a81128ef286ed0da70e47283ebef9/tumblr_o8qwvl4gZE1qax79so1_540.gif);
+}
+
+.questionOne{
+	background-color: black;
+	color: pink;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	width: 300px;
+};
+.optionsOne{
+	color: #cc3366;
+};
+
+.questionTwo{
+	background-color: black;
+	color: pink;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	width: 300px;
+	float: left;
+};
+
+.optionsTwo{
+	color: #cc3366;
+};
+
+.questionThree{
+	background-color: black;
+	color: pink;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	width: 300px;
+};
+
+.optionsThree{
+	color: #cc3366;
+};
+.questionFour{
+	background-color: black;
+	color: pink;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	width: 300px;
+};
+
+.optionsFour{
+	color: #cc3366;
+};
+.questionFive{
+	background-color: black;
+	color: pink;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	width: 300px;
+};
+
+.optionsFive{
+	color: #cc3366;
+};
+
+.questionSix{
+	background-color: black;
+	color: pink;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	width: 300px;
+};
+
+.optionsSix{
+	color: #cc3366;
+};
+
+.questionSeven{
+	background-color: black;
+	color: pink;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	width: 300px;
+};
+
+.optionsSeven{
+	color: #cc3366;
+};
+
+.questionEight{
+	background-color: black;
+	color: pink;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	width: 300px;
+};
+ .optionsEight{
+	color: #cc3366;
+};
+
+.questionNine{
+	background-color: black;
+	color: pink;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	width: 300px;
+};
+
+.optionsOne{
+	color: #cc3366;
+};
+
+#display{
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
